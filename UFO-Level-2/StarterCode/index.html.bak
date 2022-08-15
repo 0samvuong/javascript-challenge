@@ -54,8 +54,8 @@
                     </ul>
                   </div>
                   <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
-				  <button id="reset-btn" type="button" class="btn btn-default">Reset Table</button>
                 </form>
+				<button id="reset-btn" type="button" class="btn btn-default">Reset Table</button>
               </div>
             </div>
           </aside>

@@ -57,4 +57,4 @@ var buttonS = d3.select("#reset-btn");
 buttonS.on("click",resetTable);
 
 // build the table upon loading via reset table function
-tableBuilder(originalData);
+resetTable;
